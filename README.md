@@ -60,6 +60,8 @@ The oplogs are batched together in the handling pipeline.<br>
 Users can adjust the worker concurrency and executor concurrency according to the different environment.<br>
 Please see the detail documents listed at the beginning if you want to see more details.<br>
 
+New Line
+
 # Code branch rules
 version rules: a.b.c.
 
